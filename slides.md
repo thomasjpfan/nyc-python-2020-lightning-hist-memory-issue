@@ -4,6 +4,8 @@ class: title-slide
 
 # Collaborative Debugging and Fixing A 🐛 in Open Source
 
+![](images/scikit-learn-logo-notext.png)
+
 .larger[Thomas J. Fan]<br>
 @thomasjpfan<br>
 <a href="https://www.github.com/thomasjpfan" target="_blank"><span class="icon icon-github icon-left"></span></a>
@@ -107,6 +109,7 @@ class: middle
 .g.g-middle[
 .g-8[
 # Conclusion
+![:scale 30%](images/scikit-learn-logo-notext.png)
 - Bug report with reproducible code 🐛
 - Many solutions based on different approaches 💻
 - Picked solution based on benchmarking + maintainability 🪑
